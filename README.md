@@ -45,7 +45,7 @@ I'm currently pursuing my studies at Middle East Technical University Northern C
 
 Feel free to reach out to me for collaborations, discussions, or any queries you might have. You can connect with me via:
 
-- **Email:** [Kaan Tandogan] [mailto:tandogankaan5@gmail.com]
+- **Email:** [tandogankaan5@gmail.com]
 - **LinkedIn:** [https://tr.linkedin.com/in/kaan-tandoğan-2400601ab?trk=public_profile_like_view_actor-name]
 
 Thank you for visiting my profile! I'm always excited to connect with fellow enthusiasts and professionals in the tech community.
