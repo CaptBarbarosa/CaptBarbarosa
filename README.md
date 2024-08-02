@@ -38,7 +38,7 @@ I am deeply interested in various fields of computer science, ranging from web d
 I'm currently pursuing my studies at Middle East Technical University Northern Cyprus Campus, where I am constantly learning and expanding my knowledge in various computer science disciplines.
 
 ## Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=javascript,css,scss,html&theme=tokyonight)
 
 ## GitHub Stats
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
