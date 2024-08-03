@@ -38,7 +38,7 @@ I am deeply interested in various fields of computer science, ranging from web d
 I'm currently pursuing my studies at Middle East Technical University Northern Cyprus Campus, where I am constantly learning and expanding my knowledge in various computer science disciplines.
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaptBarbarosa&layout=compact&hide=html&theme=radical" alt="omerfi"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaptBarbarosa&layout=compact&hide=html&theme=radical" alt="CaptBarbarosa"/>
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=CaptBarbarosa&include_all_commits=true&count_private=true&show_icons=true&theme=radical"/>
 
 ## Get in Touch
