@@ -41,7 +41,7 @@ I'm currently pursuing my studies at Middle East Technical University Northern C
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaptBarbarosa&layout=compact&hide=html&theme=radical" alt="CaptBarbarosa"/>
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=CaptBarbarosa&include_all_commits=true&count_private=true&show_icons=true&theme=radical"/>
-*Updated on: *Updated on: 4th August 2023 at 12:02 PM*
+
 ## Get in Touch
 
 Feel free to reach out to me for collaborations, discussions, or any queries you might have. You can connect with me via:
