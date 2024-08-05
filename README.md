@@ -25,6 +25,7 @@ I am deeply interested in various fields of computer science, ranging from web d
 - **[C-Garbage-Collector](https://github.com/CaptBarbarosa/C-Garbage-Collector)**: A garbage collector implementation in C.
 - **[General-C](https://github.com/CaptBarbarosa/General-C)**: General notes and experiments in C.
 - **[Multithreading-and-Thread-Synchronization-in-UNIX](https://github.com/CaptBarbarosa/Multithreading-and-Thread-Synchronization-in-UNIX)**: A project focused on multithreading and thread synchronization in UNIX systems.
+- **[Cpp-Exercises](https://github.com/CaptBarbarosa/Cpp-Exercises)**: Exercises I solved from various books and leetcode etc.
 
 ### Upcoming Projects
 
