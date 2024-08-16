@@ -8,7 +8,7 @@ I am deeply interested in various fields of computer science, ranging from web d
 
 ## Skills and Interests
 
-- **Programming Languages:** C, C++, Java, Python
+- **Programming Languages:** C, C++, Java, Python, HTML/CSS, Kotlin, C#
 - **Web Development:** Developing websites with a focus on both frontend and backend using Python. (Coming to github soon).
 - **GUI Development:** Creating user-friendly applications, with experience in Java for restaurant owners/staff (Coming to github soon).
 - **Cybersecurity:** Exploring digital forensics and malware development for ethical purposes.
